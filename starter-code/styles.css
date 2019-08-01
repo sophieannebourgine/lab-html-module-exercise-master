@@ -1,0 +1,211 @@
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height: 40px;
+    margin: 0;
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+
+  .top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+  .acronym {
+      padding-left: 10px;
+  }
+
+  .top-left {
+    padding-top: 5px;
+    padding-left: 15px;
+    float: left;
+    font-size: 1rem;
+
+  .header {
+      padding: 0 0 35 px 0;
+      background-color: (32, 101, 136);
+    
+  }
+ 
+  }
+
+  .search {
+    background-color: rgb(32, 101, 136);
+    padding: 0 0 0 15px;
+ 
+  }
+  .build {
+    margin: 0 auto;
+    color:#f4f4f4;
+    background-color: rgb(32, 101, 136);
+    margin-top: 0px;
+    background-image: url("/Users/sophie-anne/Documents/lab-html-module-exercise-master/images/city-scape.svg");
+
+  }
+
+  .build-background{
+      margin: 0 auto;
+      padding-top: 30%;
+      color: #f4f4f4;
+      margin-top: 0px;
+  }
+
+ 
+
+.section2-background{
+    margin: 0 auto;
+    padding-top: 30%;
+    color: #f4f4f4;
+    margin-top: 0px; 
+}
+.build-left {
+    padding: 15px  40px 40px 200px;
+    float:left;
+    text-align: left;
+    color: #f4f4f4;
+    margin-top: 60px;
+    width: 30%;
+}
+
+ 
+
+  .find-package-input {
+background-color: rgb(31, 82, 111);
+width: 500px;
+border: 1px solid rgb(31,82,111);
+  }
+
+
+
+  .dark-barground {
+    background: rgb(39, 53, 71);
+    color: #fff;
+
+  }
+
+  .link-btn1 {
+      background-color: rgb(240, 146, 51);
+      color: white;
+      display: block;
+      text-align: center;
+      border-radius: 25px;
+      text-decoration: none;
+      width:150px;
+  }
+
+  .link-btn2 {
+      background-color:rgb(203, 56, 55);
+      color: white;
+      display: block;
+      text-align: center;
+      border-radius: 25px;
+      text-decoration: none;
+      width:150px;
+      float: left;
+  }
+
+  .link-btn3 {
+    background-color: rgb(49,68,88);
+    display: block;
+    color: white;
+    text-align: center;
+    border-radius: 25px;
+    text-decoration: none;
+    width:150px;
+  }
+    
+
+  .section1-collaboration {
+      float: left;
+      width: 30%;
+      margin: 0;
+      background-color: rgb(39,53,71);
+      padding: 10% 10% 20px 15%;
+
+  }
+
+  .section1-content {
+    background-color: rgb(39,53,71);
+    color: #f4F4F4;
+    padding: 10% 10% 20px 15%;    
+  }
+  .section1-link {
+      color: white;
+      background-color: rgb(39,53,71);
+
+  }
+  .search-logo {
+      background-color: rgb(31, 82, 111);
+
+  }
+
+  .section2-background {
+      margin: 0 auto;
+      padding-top: 30%;
+      color: #f4F4F4;
+      margin-top: 0px;
+  }
+  .section2-content {
+    padding: 15px 40px 40px 200px;
+    float: left;
+    text-align: left;
+    width: 30%;
+    margin-top: 125px;
+    color: white;
+  }
+
+
+ 
+  .section3-heading {
+      margin: 0 auto;
+      text-align: center;
+      color: rgb(83,88,98);
+      padding-top: 20px;
+  }
+
+.section3-container {
+    width: 600px;
+    text-align:center;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.section3-container  .text {
+    color: rgb(135, 145, 156)
+
+}
+
+  .col { 
+    float: left; 
+  }
+  .col-middle {
+  margin-left: 0 5% 0 5%;
+    
+  }
+  .col-3 { 
+    width: 30%;
+    margin: 0 auto;
+  }
+  .clearfix { 
+    clear: both; }
+
+    .text {
+        text-align: center;
+    }
+
+    .log-link {
+        color: white;
+        text-decoration: none;
+    }
